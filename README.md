@@ -14,6 +14,6 @@ This code is based on the implementation of [DARTS](https://github.com/quark0/da
 ### evluation
 - Get the architecture with best validation accuracy in training search stage
 - Add the architecture in genotypes.py
-- train these Genotype with following:
+- train these Genotype with following: <br />
 `$ cd MS-DARTS/sota/cnn` <br />
 `$ python train.py`
